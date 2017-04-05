@@ -8,7 +8,7 @@ int main(void)
     printf("x is %i\n", x);
     printf("y is %i\n", y);
     
-    // swapping...
+    // swapping changes...
     int t = x;
     y = t;
     x = y;
